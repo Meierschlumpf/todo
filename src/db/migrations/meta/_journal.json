@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1768639994704,
+      "tag": "0000_true_meteorite",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1768641113387,
+      "tag": "0001_magenta_giant_girl",
+      "breakpoints": true
+    }
+  ]
+}
